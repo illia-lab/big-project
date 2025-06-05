@@ -1,4 +1,4 @@
-#!/Users/cistijmak/big-project/.venv/bin/python
+#!/Users/cistijmak/big-project/.venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
